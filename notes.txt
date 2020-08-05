@@ -1,0 +1,8 @@
+Automatically update the server:
+- sudo npm install nodemon -g --save
+- nodemon server.js --watch index.html
+--> Updates the server everytime the server.js file is saved or the index.html file is saved
+
+Automaticall update browser when html and css have been changed:
+- sudo npm install -g browser-sync
+- start --server --files *.html css/*.css
