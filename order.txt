@@ -1,1 +1,1 @@
-{"Bestellnummer":"B-2356","Bestelldatum":"2020-08-08"}
+{"Bestellnummer":"asdf","Bestelldatum":"","Besteller":"","Lieferant":"","Bestellinhalt":"","Typ":"","Projektnummer":"","Liefermonat":"","Rechnung":""}
